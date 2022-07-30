@@ -9,6 +9,10 @@ Project to use a smart litter picker to collect, record, and analyses the litter
 ## Outcomes
 - some data driven approaches to reducing litter that could be scaled to other areas also
 
+## Potential Technical approaches
+- raspberry pi + camera + gps
+- android app with phone mount + bluetooth button
+
 
 ## Resources
 https://endplasticwaste.org/en/our-stories/the-countries-who-have-built-a-culture-of-cleanups
