@@ -8,3 +8,7 @@ Project to use a smart litter picker to collect, record, and analyses the litter
 
 ## Outcomes
 - some data driven approaches to reducing litter that could be scaled to other areas also
+
+
+## Resources
+https://endplasticwaste.org/en/our-stories/the-countries-who-have-built-a-culture-of-cleanups
